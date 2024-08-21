@@ -1,0 +1,20 @@
+C10_6
+
+Vehicle
+PickingNum		DeliveryNum		Capacity
+	4				3				60
+
+Customer
+Cus No.		XCOORD.		YCOORD.		Volume		Buffer		ServiceTime
+
+	0		92		10		10		30		59		
+	1		77		68		17		31		103		
+	2		24		9		41		120		83		
+	3		41		21		33		70		99		
+	4		41		41		50		53		32		
+	5		27		81		8		11		105		
+	6		68		58		28		63		74		
+	7		6		97		8		20		37		
+	8		37		74		37		76		32		
+	9		81		22		43		107		80		
+	10		87		82		14		41		103		
